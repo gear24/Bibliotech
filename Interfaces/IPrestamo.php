@@ -1,6 +1,6 @@
 <?php
-
+#pa que se respete lo de las inclusiones en funciones
 interface Prestamo {
-    public function prestar();   // Método obligatorio
-    public function devolver(); // Método obligatorio
+    public function prestar();   
+    public function devolver(); 
 }
